@@ -9,7 +9,6 @@ function App() {
     <div className="App">
       <Calc />
       
-      {/* <h1> {counter } </h1> */}
       <button>Start</button>
       <button>Stop</button>
       <button></button>
