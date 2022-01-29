@@ -30,6 +30,9 @@
 .buttons .reset {
   background-color: rgb(119, 94, 11);
 }
+.buttons .reset:disabled {
+  background-color: rgb(100, 100, 100);
+}
 
 .buttons .start {
   background-color: rgb(16, 90, 16);

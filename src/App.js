@@ -52,6 +52,7 @@ function App() {
         iterator = { iterator }
       />
       <Buttons 
+        iterator={ iterator }
         started={ started }
         handleStart={ handleStart }
         handleReset={ handleReset }
